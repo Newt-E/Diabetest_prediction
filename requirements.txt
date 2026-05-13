@@ -1,5 +1,6 @@
-numpy
-pandas
+numpy==2.3.3
+pandas==2.3.5
 streamlit
 pickle
 scikit-learn
+pip==26.0.1
